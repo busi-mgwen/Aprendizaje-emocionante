@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'RobotoMono-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/RobotoMono-Regular.ttf);
+}@font-face {
+  font-family: 'FugueRegular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/FugueRegular.ttf);
+}
